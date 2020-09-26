@@ -1,3 +1,3 @@
 ## QRCode Generator
 
-A who program creates a QRCode with your text
+A program who creates a QRCode with your text
